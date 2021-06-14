@@ -1,2 +1,2 @@
-# imperial-metric-converter
- Project form FreeCodeCamp
+Project from FreeCodeCamp
+First project of Quality Assuarance
